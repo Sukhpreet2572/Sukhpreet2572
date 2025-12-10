@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br>🌱 I'm Sukhpreet Kaur , actively enhancing my expertise in Machine Learning, Data Analytics, and Software Development, with hands-on work across real-world datasets and AI-driven projects.<br>🧠 I’m motivated by curiosity and problem-solving, focusing on building efficient algorithms, intelligent systems, and impactful technical solutions.<br>📫 How to reach me sukhgill2572@gmail.com
+# ⭐ Hello, I'm Sukhpreet Kaur!
+<br>🌱 I'm actively enhancing my expertise in Machine Learning, Data Analytics, and Software Development, with hands-on work across real-world datasets and AI-driven projects.<br>🧠 I’m motivated by curiosity and problem-solving, focusing on building efficient algorithms, intelligent systems, and impactful technical solutions.<br>📫 How to reach me sukhgill2572@gmail.com
 
 
 ## 🌐 Socials:
